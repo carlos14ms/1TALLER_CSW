@@ -1,0 +1,51 @@
+.contenedor1{
+    text-align: center;
+    background-color: aqua;
+    font-family: 'Combo', cursive;
+}
+.contenedor2{
+    text-align: center;
+    background-color: rgb(67, 131, 131);
+    font-family: 'Roboto Mono', monospace;
+}
+
+.cuadrado{
+    width: 320px;
+    height: 380px;
+    background: rgb(107, 105, 105);
+    display: inline-block ;
+    text-align: center;
+    
+}
+
+.boton{
+    background-color: #1fdfe6; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+body{
+    background: linear-gradient(to right, #33FF93,#33A5FF);
+    
+}
+
+
+
+
+/*
+#centrar1{
+    background-color: aquamarine;
+    width: 320px;
+    height: 320px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#cuerpo{
+    text-align: center;
+}*/
